@@ -1,0 +1,11 @@
+C:\Users\stara\Desktop\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.exe
+C:\Users\stara\Desktop\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.deps.json
+C:\Users\stara\Desktop\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.runtimeconfig.json
+C:\Users\stara\Desktop\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.runtimeconfig.dev.json
+C:\Users\stara\Desktop\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.dll
+C:\Users\stara\Desktop\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.pdb
+C:\Users\stara\Desktop\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.csprojAssemblyReference.cache
+C:\Users\stara\Desktop\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.AssemblyInfoInputs.cache
+C:\Users\stara\Desktop\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.AssemblyInfo.cs
+C:\Users\stara\Desktop\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.dll
+C:\Users\stara\Desktop\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.pdb
